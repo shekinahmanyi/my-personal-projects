@@ -1,0 +1,60 @@
+html{
+    background:url('h1.jpg') no-repeat center center fixed;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size: cover; 
+}
+nav{
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.486);
+    background-size: cover;
+    font-size: large;
+    padding: 10px,30px;
+    width: 100vw;
+}
+nav > div{
+    text-align: right;
+    flex-grow: 1;
+    margin: auto;
+}
+nav > div > a{
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+    padding: 10px;
+}
+nav > div > a:hover{
+    font-weight: bold;
+    
+}
+
+nav > p{
+    margin: 10px;
+    padding: 20px;
+    color: white;
+}
+input[type=text]{
+    border: 1px solid #ccc;
+    font-size: 17px;
+}
+.section-intro{
+    text-align: left;
+    height: 10vw;
+    padding: 30px;
+    margin: auto;
+    font-size: xx-large;
+    height: 50vh;
+    color: white;
+}
+button{
+    width: 150px;
+    border: none;
+    color: white;
+    background-color: blue;
+    border-radius: 3px;
+    height: 40px;
+    margin: 20px;
+    font-size: medium;
+    padding: 10px;
+}

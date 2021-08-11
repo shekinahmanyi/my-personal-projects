@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
 body{
     background-image:url('h1.jpg');
     background-repeat: no-repeat;
@@ -47,11 +52,12 @@ input[type=text]{
 }
 .section-intro{
     text-align: left;
-    height: 10vw;
-    padding: 90px;
+    padding-right: 60px;
+    padding-left: 25px;
+    padding-top: 200px;
     margin: auto;
     font-size: xx-large;
-    height: 30vh;
+    height: 70vh;
     color: white;
 }
 button{

@@ -1,2 +1,2 @@
 # Personal Project
-This is my personal and practice frontend project on html and css.
+This is Just a simple website made with HTML and CSS and so I was trying to perfect my skills by working on this project.
